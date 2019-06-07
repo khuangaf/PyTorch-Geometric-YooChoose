@@ -3,7 +3,7 @@
 ![image](https://cdn-images-1.medium.com/max/2400/1*AMTs2MPLKCwOZy4WaKbYTw.png)
 
 ## Overview
-This is the accompany repository for my Medium article:
+This is the accompanying repository for my Medium article:
 
 __[Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric](https://medium.com/@huangkh19951228/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8)__.
 
